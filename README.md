@@ -1,3 +1,1 @@
-# Stepik-auto-tests-course
-home work
-Надеюсь буду здесь плавать как рыба в воде
+Работы в Автоматизации тестирования с помощью Selenium и Python
