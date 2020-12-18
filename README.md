@@ -1,7 +1,7 @@
 
 Для проверки в модуле 3.6.х
 
-1) скачайте 2 документа: confiest.py и test_items.py
+1) скачайте 2 документа: conftest.py и test_items.py
 
 2)запустите через терминал с помощью: pytest --language=us-gb test_items.py
 
